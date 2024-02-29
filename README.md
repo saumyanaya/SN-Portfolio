@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **job applications**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saumyanaya/SN-Portfolio](https://github.com/saumyanaya/SN-Portfolio)
+- 👨‍💻 All of my projects are available at **https://github.com/saumyanaya**
 
 - 💬 Ask me about **to share with your audience my journey as a Software Engineer.**
 
