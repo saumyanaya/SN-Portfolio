@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saumya Nayak</h1>
-<h3 align="center">Full-stack web developer proficient in JavaScript, Node, and React with a background in Finance and Commerce. Transitioned from Teaching profession to web development to help companies create responsive, scalable, and maintainable web experiences. The latest project involved implementing React components and integration with APIs at Triple Ten Bootcamp. Front-end: JavaScript, React, HTML 5, CSS Back-end: Node.js, Express.js, MongoDB, AWS(ES2) Tools: Babel, Webpack, Git</h3>
+<h3 align="center">Full-stack web developer proficient in JavaScript, Node, and React with a background in Finance and Commerce. Transitioned from Teaching profession to web development to help companies create responsive, scalable, and maintainable web experiences. The latest project involved implementing React components and integration with APIs at Triple Ten Bootcamp. Front-end: JavaScript, React, HTML 5, CSS Back-end: Node.js, Express.js, MongoDB, Google Cloud PLatform Tools: Babel, Webpack, Git</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyanaya&label=Profile%20views&color=0e75b6&style=flat" alt="saumyanaya" /> </p>
 
