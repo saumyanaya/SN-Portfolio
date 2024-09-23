@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *Job applications and SlopGoblins Externship Project*
 
-- 👨‍💻 All of my projects are available at (https://github.com/saumyanaya?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/saumyanaya)
 
 - 💬 Ask me about **to share with your audience my journey as a Software Engineer.**
 
