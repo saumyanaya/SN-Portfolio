@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumyanaya" alt="saumyanaya" /></a> </p>
 
-- 🔭 I’m currently working on *Quantum Innovative Technologies*
+- 🔭 I’m currently learning *Java from Codeacademy*
 
-- 👨‍💻 All of my projects are available at (https://github.com/saumyanaya)
+- 👨‍💻 All of my projects are available at *(https://github.com/saumyanaya)*
 
-- 💬 Ask me about **to share with your audience my journey as a Software Engineer.**
+- 💬 Ask me about **to share with your audience my journey as a Software Engineer and Teacher.**
 
 - 📫 How to reach me **nayaksaumya270@gmail.com**
 
-- ⚡ Fun fact **Full-time mom, part-time engineer, but always in problem-solving mode—whether it’s code or kid-related!**
+- ⚡ Fun fact **Full-time mom, part-time teacher, and enthusiastic engineer but always in problem-solving mode—whether it’s code or kid-related!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
